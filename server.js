@@ -1,6 +1,8 @@
 const express = require('express');
+// get JSON body
 const bodyParser = require('body-parser');
 const bcrypt = require('bcrypt-nodejs');
+// Allow to access from any domain (Security)
 const cors = require('cors');
 // SQL builder works with Node
 const knex = require('knex');
