@@ -2,8 +2,8 @@
 
 ## Description
 
-Back-end for face recognition app
-[Front-end](https://github.com/roy1210/smart-brain)
+Back-end for face recognition app <br />
+See [Front-end](https://github.com/roy1210/smart-brain)
 
 <!-- **_DEMO:_** -->
 
