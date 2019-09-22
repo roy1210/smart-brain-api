@@ -1,5 +1,6 @@
 
 -- Seed data with a fake user for testing
+-- `hash` is the `a` which allow to use as password 
 BEGIN TRANSACTION;
 
 insert into users
